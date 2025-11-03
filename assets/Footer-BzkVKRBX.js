@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as t,o as c}from"./index-S43cw9oA.js";import"@vueuse/core";const o={},r={class:"h-100 d-flex align-center justify-md-space-between justify-center"};function s(n,a){return c(),t("div",r)}const m=e(o,[["render",s]]);export{m as default};
